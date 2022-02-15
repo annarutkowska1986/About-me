@@ -1,4 +1,4 @@
-	# About me
+# About me
 
 ##### My name is Anna Rutkowska. I'm a recent graduate of a Manual and Automation Tester at CodersLab School. 
 ##### I have chosen this field of study because I want to develop my skills and knowledge within the IT industry. 
