@@ -5,7 +5,7 @@
 #### I'm currently looking for opportunities that will help me grow. 
 
 # Tools
-⋅⋅*	MySQL
+*	MySQL
 ⋅⋅*	JIRA
 ⋅⋅*	IntelliJ
 ⋅⋅*	Selenium
