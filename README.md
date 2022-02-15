@@ -29,6 +29,12 @@
   
 # My projects
 
-My test cases
+*
 
-Examples of bugs
+# My test cases
+
+*
+
+# Examples of bugs
+
+*
