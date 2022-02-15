@@ -6,26 +6,26 @@
 
 # Tools
 *	MySQL
-⋅⋅*	JIRA
-⋅⋅*	IntelliJ
-⋅⋅*	Selenium
-⋅⋅*	basic of Java
-⋅⋅*	TestLink
-⋅⋅*	Cucumber
-⋅⋅*	Page Object Pattern
+*	JIRA
+*	IntelliJ
+*	Selenium
+*	basic of Java
+*	TestLink
+*	Cucumber
+*	Page Object Pattern
 
 # Skills
-⋅⋅*	creating test cases
-⋅⋅*	reporting bugs
-⋅⋅*	creating inquiries in SQL
-⋅⋅*	finding elements by.id, by.name, by.className, by.xpath, by.cssSelector
-⋅⋅*	using functions of Selenium WebDriver
-⋅⋅*	creating tests by using page object pattern
-⋅⋅*	creating user stories in Gherkin
+*	creating test cases
+*	reporting bugs
+*	creating inquiries in SQL
+*	finding elements by.id, by.name, by.className, by.xpath, by.cssSelector
+*	using functions of Selenium WebDriver
+*	creating tests by using page object pattern
+*	creating user stories in Gherkin
   
 # Courses
-	•	CodersLab: Manual Tester
-	•	CodersLab: Automation Tester
+*	CodersLab: Manual Tester
+*	CodersLab: Automation Tester
   
 # My projects
 
