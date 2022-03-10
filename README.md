@@ -31,7 +31,7 @@
 
 *
 
-# My test cases
+# Examples of test cases
 
 *
 
