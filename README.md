@@ -29,7 +29,7 @@
   
 # My projects
 
-*
+* [Final tasks - test automation - CL](https://github.com/annarutkowska1986/zad_zaliczeniowe_automat.git)
 
 # Examples of test cases
 
