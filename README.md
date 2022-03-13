@@ -37,4 +37,4 @@
 
 # Examples of bugs
 
-*
+[Examples of bugs from mystore](https://github.com/annarutkowska1986/ex_bugs.git)
