@@ -33,8 +33,8 @@
 
 # Examples of test cases
 
-*
+* [Examples of test cases myStore](https://github.com/annarutkowska1986/test_cases_mystore.git)
 
 # Examples of bugs
 
-[Examples of bugs from mystore](https://github.com/annarutkowska1986/ex_bugs.git)
+* [Examples of bugs from mystore](https://github.com/annarutkowska1986/ex_bugs.git)
